@@ -10,3 +10,6 @@ main {
 aside {
     width: 15%;
 }
+footer {
+    clear: left;
+}
